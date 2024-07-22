@@ -41,3 +41,4 @@ The testbench initializes the inputs, applies the reset signal, and starts the m
 ## Results
 
 The results from the testbench will display the products of the test cases, which you can verify against the expected values.
+![gtkwave](https://github.com/user-attachments/assets/e7227ee6-f401-403c-beef-02fd8bb7f2e2)
